@@ -3,7 +3,7 @@
 Simple script that mounts and unmounts a Shared Folder in a VM.
 Tested on a Debian VM within VMWare.
 
-### Pre-requisites:
+### Pre-requisites
 * You have installed open-vm-tools, open-vm-tools-desktop, and open-vm-tools-dkms.
 * You have created a shared folder for your VM in VM -> Settings -> Options -> Shared Folder
 * You have sudo privileges

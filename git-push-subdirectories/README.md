@@ -12,9 +12,21 @@ Run the following command
 
 ``` echo "source ~/.git-push-subdirectories.sh" >> ~/.bashrc &&  source ~/.bashrc ```
 
-Then use the following command
+Then use the following command in a directory of your choosing
 
 ``` GitPushSubd ```
+
+
+### Example
+-master_directory
+  -subdirectory_1
+  -subdirectory_2
+  -subdirectory_3
+
+user:~/master_directory$ GitPushSubd
+(git add all, commit, and push files in subdirectory_1)
+(git add all, commit, and push files in subdirectory_2)
+(git add all, commit, and push files in subdirectory_3)
 
 ### Warning
 * It will add and commit all files

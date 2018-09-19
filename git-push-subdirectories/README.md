@@ -18,15 +18,15 @@ Then use the following command in a directory of your choosing
 
 
 ### Example
--master_directory
-  -subdirectory_1
-  -subdirectory_2
-  -subdirectory_3
+-master_directory  
+  -subdirectory_1  
+  -subdirectory_2  
+  -subdirectory_3  
 
-user:~/master_directory$ GitPushSubd
-(git add all, commit, and push files in subdirectory_1)
-(git add all, commit, and push files in subdirectory_2)
-(git add all, commit, and push files in subdirectory_3)
+user:~/master_directory$ GitPushSubd  
+(git add all, commit, and push files in subdirectory_1)  
+(git add all, commit, and push files in subdirectory_2)  
+(git add all, commit, and push files in subdirectory_3)  
 
 ### Warning
 * It will add and commit all files

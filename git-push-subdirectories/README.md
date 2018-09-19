@@ -23,7 +23,7 @@ Then use the following command in a directory of your choosing
   -subdirectory_2  
   -subdirectory_3  
 
-user:~/master_directory$ GitPushSubd  
+**user:~/master_directory$** GitPushSubd  
 (git add all, commit, and push files in subdirectory_1)  
 (git add all, commit, and push files in subdirectory_2)  
 (git add all, commit, and push files in subdirectory_3)  

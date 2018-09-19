@@ -19,9 +19,9 @@ Then use the following command in a directory of your choosing
 
 ### Example
 -master_directory  
-  -subdirectory_1  
-  -subdirectory_2  
-  -subdirectory_3  
+  * subdirectory_1  
+  * subdirectory_2  
+  * subdirectory_3  
 
 **user:~/master_directory$** GitPushSubd  
 (git add all, commit, and push files in subdirectory_1)  
